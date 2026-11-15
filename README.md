@@ -1,6 +1,6 @@
 # UUID
 项目用法：直接在Out_UUID.py中输入shellcode，运行对应的py，输出对应的数组，C++的Loader一定要选择对应的。
->python UUID.py
+/>python UUID.py
 [-] Shellcode's length not multiplies of 16 bytes
 [-] Adding nullbytes at the end of shellcode, this might break your shellcode.
 
